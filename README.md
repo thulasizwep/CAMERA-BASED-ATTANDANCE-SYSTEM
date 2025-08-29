@@ -1,12 +1,17 @@
 Go to http://localhost/phpmyadmin/ 
+
 CEATE DATABASE = "attendance_system"
+
 Then import "database.sql", which is under the data folder
 
 OPEN XAMMP, go to explorer/hotdocs
+
 Paste the folder here.
 
 GO TO: http://localhost/attendance-system-1/
+
 USERNAME: admin ; PASSWORD: admin123
+
 if fail, rest password: http://localhost/attendance-system/reset_password.php
 
 

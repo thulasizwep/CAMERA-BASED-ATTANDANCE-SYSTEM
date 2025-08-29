@@ -31,3 +31,4 @@ if fail, rest password: http://localhost/attendance-system/reset_password.php
 
 <img width="1497" height="356" alt="image" src="https://github.com/user-attachments/assets/3b8bc420-5a6c-4add-baf1-765d630e8ffd" />
 
+<img width="1916" height="696" alt="image" src="https://github.com/user-attachments/assets/f3f8ca17-f0a0-43e3-af0d-50d260456251" />
